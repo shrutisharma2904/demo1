@@ -7,5 +7,5 @@ app.get("/",()=>{
     console.log("heyy");
 })
 app.get("/",()=>{
-    console.log("heyy second time");
+    console.log("heyy test time");
 })
